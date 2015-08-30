@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/malt3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://malt3.de
+  * I am malt3 (https://keybase.io/malt3) on keybase.
+  * I have a public key with fingerprint 3C24 DBF5 574D 2C93 B666  8DDB A596 C48B FEA9 40D8
+
+To do so, I am signing this object:
+
+{
+    body: {
+        client: {
+            name: keybase.io node.js client,
+            version: 0.7.8
+        },
+        key: {
+            fingerprint: 3c24dbf5574d2c93b6668ddba596c48bfea940d8,
+            host: keybase.io,
+            key_id: A596C48BFEA940D8,
+            uid: 1f3e23d44744d10c1865cd9880133019,
+            username: malt3
+        },
+        merkle_root: {
+            ctime: 1440933861,
+            hash: 5bf78e70d063a11afed55f216237ad0638fa9af6d09b104674442c3612b0559ac2876630329087af2de5307cdfe89b61f68d0c6c3598ac5a239dd335b1809c59,
+            seqno: 284156
+        },
+        service: {
+            hostname: malt3.de,
+            protocol: http:
+        },
+        type: web_service_binding,
+        version: 1
+    },
+    ctime: 1440933936,
+    expire_in: 157680000,
+    prev: 162c52feb9045327e0b77ebd30c553207522f205cd086afc0754487a636e8c9e,
+    seqno: 18,
+    tag: signature
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFVkn9oVlUYx9/X0jZjpCBlabCuCGbr7fy459xzF0JWGpgk4jRawtv5dd9d9+7e
+d/e9e3XIqwQa2PqxIEVqhZi0pLRgFYFo1CQ2F8tihaMyajSnZRYxChyrc8YiPX+d
+85zP85zv93lOd90NmZrsutaBAxsODzjZoYsis/mnCbDTEbHqdBp3OrIY6ii1u4i3
+aafRadWdgpd1Lozro1jp3LZy/SzT4FR0Ug7jyFAg5+WYU22wuE0Owqigk1IS2loO
+lshVIiDEcxWSPhaUUqaU4MSn0mUi0Nx3gWKmZEtcTq971ZmpmQ+Via42/EMue3Dt
+mtWGf9jyHTMXMMAaYeW6nusqCCRklEjlMwYgxgD6FizrZNZSGy+m2Ipt00lrUeeT
+OJ5xLNPQ3kPXBT7GjEIjh5dbTAYRgce0BxSgmEPIA60ICRCkCHvcBlnAfR5QBXwB
+gUuNDBdJTCESgBCfS8Q8SjHAyAfM4wFSmmDgSRVo5gsKA9MOIKnExGdcEo6wrxTG
+REAGfEms/rJuj2KnETEXElq156QSSm11255day2ntEkoJXEay7hooi1pWmq0htPO
+kqW2a5Gfze/NizBSZlrXjhMa9Ppm+Jg2OHpHKUx0PrQE8SgDZtl3dMWOgCJJUKCF
+D1yCkaeB8DwtFAaSmDPwCEIBAmYsgFEeSBNwXdMLiqlm0tf/W4TMCOUFU7McFiKe
+diTaqe7LLr0xk63JzJs7x37YzPzaBf/94nFy0z9q7OyZN/fVVPovvbbj10PP9a+s
+JX3tNfffc3r82LkNF715ZGL3piNXjvU9tm782Tu/mZo+We3+rvm9rR88enZSttRe
+DVcd/uiZg4///cPyXXtG1y+/UDu1bPJM85wfb57cde/g5wN/PnV3x4qFL+z+45MD
+uVuWHHqgUP929ec7SufW37p/7fBo+4oT3SM9X/ftuTKx9cXjg5umC2nvx0NHT70/
+dnDb4G9jLy/97JHTn8YjU3vvOvHu7992PT3+196jXdmR23ten//VG680RcP9TRu/
+XLm458MFq+oXnbz6Ut0TS07d9vyrw2+drxs9fklf/uU8bl78JKwsm16zsff74J37
+9i8c2n65qzB30RcdRy5Ui1uawrZ/AQ==
+=OiSy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/malt3
+
+==================================================================
