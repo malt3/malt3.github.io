@@ -91,8 +91,14 @@
  * Site footer
  */
 .site-footer {
+    -webkit-box-shadow: inset 0px 5px 23px 1px rgba(0,0,0,0.5);
+    -moz-box-shadow: inset 0px 5px 23px 1px rgba(0,0,0,0.5);
+    box-shadow: inset 0px 5px 23px 1px rgba(0,0,0,0.5);
+
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+
+    background-color: darken($background-color, 10%);
 
     .footer-profile-img{
         border: 2px solid #eee;
@@ -111,15 +117,6 @@
 
     .footer-bio{
         display: inline;
-    }
-
-    .footer-socialmedia-link{
-        color: $text-color;
-        text-decoration: none;
-        margin: $spacing-unit / 2 ;
-    }
-    .footer-socialmedia-link:hover{
-        color: $brand-color;
     }
 }
 
