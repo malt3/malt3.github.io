@@ -144,6 +144,10 @@
         margin-bottom: $spacing-unit;
         border-bottom: thin solid #F3F3F3;
     }
+
+    > li:last-of-type{
+        border-bottom: none;
+    }
 }
 
 .post-meta {
