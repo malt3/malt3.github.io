@@ -2,7 +2,7 @@
 title: Alles auf Anfang
 layout: post
 ---
-In ein paar Tagen fange ich an zu studieren. IT Sicherheit in Bochum. Um dem gerecht zu werden, musste ich natürlich mal meine Internetpräsenz etwas aufhübschen und habe nun mit eine digitalen Frühjahrsputz (ende August) begonnen.
+In ein paar Tagen fange ich an zu studieren. IT Sicherheit in Bochum. Um dem gerecht zu werden, musste ich natürlich mal meine Internetpräsenz etwas aufhübschen und habe nun mit einem digitalen Frühjahrsputz (ende August) begonnen.
 
 Neu ist unter anderem meine "landing page" [maltepoll.de](https://maltepoll.de) und mein Blog (auf dem Du dich gerade hier befindest).  
 Ich möchte dir hier einen kleinen Überblick über die Themen geben, die dich hier erwarten werden.
